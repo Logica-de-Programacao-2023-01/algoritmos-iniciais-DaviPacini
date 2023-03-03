@@ -1,0 +1,12 @@
+Algoritmo de conversão de temperatura: um algoritmo que converte uma temperatura em Celsius para Fahrenheit ou vice-versa.
+
+1: leia unidade a ser descoberta, TC ou TF;
+2: SE TC;
+3: 	ENTÃO LEIA TF;
+4: 	A <- (TF -32);
+5: 	B <- A/9 *5;
+6: 	ESCREVA B;
+7: SENÃO LEIA TC;
+8: 	C <- (TC*9)/5;
+9: 	D <- C + 32;
+10: 	ESCREVA D.
