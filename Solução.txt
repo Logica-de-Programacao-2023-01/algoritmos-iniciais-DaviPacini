@@ -1,0 +1,6 @@
+1. Algoritmo de soma de dois números: um algoritmo simples que pede dois números como entrada e retorna a soma desses dois números.
+
+1: LER 2;
+2: LER 3;
+3: A <- 2+3;
+4: ESCREVA A.
